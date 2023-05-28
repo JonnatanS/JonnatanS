@@ -6,6 +6,8 @@
 
 ![JonnatanS GitHub stats](https://github-readme-stats.vercel.app/api?username=jonnatanS&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonnatanS)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Tecnologias em treinamento
 
 <div style="display: inline_block"><br>
@@ -19,3 +21,4 @@ Apaixonado por tecnologia, musica e sempre ser proativo
 
 ## Contado
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonnatansouza65@gmail.com)
+
