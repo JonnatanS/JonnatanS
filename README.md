@@ -17,7 +17,7 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-Apaixonado por tecnologia, musica e sempre ser proativo
+Apaixonado por tecnologia, musica e sempre procurando melhorar
 
 ## Contado
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonnatansouza65@gmail.com)
